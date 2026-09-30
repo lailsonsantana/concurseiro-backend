@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: concurseiro
+  mongodb:
+    uri: mongodb://localhost:27017/concurseiro
+
+server:
+  port: 8080
